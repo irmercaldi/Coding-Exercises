@@ -13,7 +13,7 @@ def reverse(str)
   reversed.join
 end
 
-puts reverse("hello")
+puts reverse("the quick brown fox jumped over the lazy dog.")
 
 
 # p "string".chars.reduce { |x, y| y + x }
